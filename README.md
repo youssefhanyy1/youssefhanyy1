@@ -1,22 +1,29 @@
-# Hi, I'm Youssef Hany
+<h1 align="center">Hi 👋, I'm Youssef Hany</h1>
+<h3 align="center">Junior .NET Backend Developer | Software Engineering student</h3>
 
-### Junior .NET Backend Developer
+## 💫 About Me
+Software Engineering student at Suez Canal University, focused on C#, ASP.NET Core Web API and SQL Server. I build learning projects to practice layered architecture, data access and API development.
 
-I'm a Software Engineering student at Suez Canal University, focused on C#, ASP.NET Core Web API, and SQL Server. I build learning projects to practice layered architecture, data access, and API development.
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hany-dev/)
 
-## Selected projects
+## 💻 Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-- [Student Admin API](https://github.com/youssefhanyy1/StudentAdminProject): an ASP.NET Core 8 learning API with student and user operations, JWT authentication, BCrypt password hashing, and Swagger documentation.
-- [DVLD](https://github.com/youssefhanyy1/DVLD): a Windows Forms application for driving-license workflows, built with C#, ADO.NET, and SQL Server across UI, business, and data-access layers.
-- [Bank System](https://github.com/youssefhanyy1/Project-3-Bank-System-UI-Main-Menu): a C++ console project covering clients, users, transactions, currency exchange, and text-file persistence.
+## 📊 GitHub Stats
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefhanyy1&show_icons=true&theme=dark)
 
-## Technical focus
+## 🚀 Selected projects
+- [Student Admin API](https://github.com/youssefhanyy1/StudentAdminProject): ASP.NET Core 8 learning API with JWT authentication, BCrypt hashing and Swagger.
+- [DVLD](https://github.com/youssefhanyy1/DVLD): Windows Forms driving-license app in C#, ADO.NET and SQL Server.
+- [Bank System](https://github.com/youssefhanyy1/Project-3-Bank-System-UI-Main-Menu): C++ console banking project with text-file persistence.
 
-- Backend: C#, ASP.NET Core, REST APIs, ADO.NET
-- Databases: SQL Server and T-SQL
-- Foundations: OOP, layered architecture, data structures, and algorithms
-- Tools: Git, GitHub, Visual Studio, Postman, and Swagger
-
-I'm looking for junior .NET backend and internship opportunities in Cairo or remotely.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/youssef-hany-dev/)
+Looking for junior .NET backend and internship opportunities in Cairo.
